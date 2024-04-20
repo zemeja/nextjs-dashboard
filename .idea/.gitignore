@@ -6,3 +6,10 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+/aws.xml
+/compiler.xml
+/modules.xml
+/nextjs-dashboard.iml
+/php.xml
+/inspectionProfiles/Project_Default.xml
+/vcs.xml
